@@ -1,6 +1,6 @@
-package Ques5task2;
+package Ques5MultilevelInheritance;
 
-public class grandParent {
+public class GrandParent {
     void showGrandParent(){
         System.out.println("This is grandParent class");
     }

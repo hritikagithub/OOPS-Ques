@@ -1,4 +1,4 @@
-package Ques5task2;
+package Ques5MultilevelInheritance;
 
 public class child extends Parent {
     void showChild(){

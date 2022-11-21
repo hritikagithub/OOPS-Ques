@@ -1,4 +1,4 @@
-package Ques5task2;
+package Ques5MultilevelInheritance;
 
 public class Main {
     public static void main(String[] args) {
