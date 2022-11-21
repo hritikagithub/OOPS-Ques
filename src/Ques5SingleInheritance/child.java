@@ -1,4 +1,4 @@
-package Ques5;
+package Ques5SingleInheritance;
 
 public class child extends parent  {
 
